@@ -1,72 +1,223 @@
-# 👋 Hi, I'm Manikandan! 🚀
+# 👋 Hi, I'm Manikandan T
 
-### 💻 Computer Science & Engineering Student
+### 💻 Computer Science & Engineering Student | Full-Stack Developer
 
-I'm a passionate developer interested in building web applications
-and learning modern technologies.
+> 🚀 Building web applications • 💡 Solving problems • 📚 Learning every day
+
+I'm a **Computer Science and Engineering student** passionate about **Full-Stack Development, Java, and problem solving**. I enjoy turning ideas into practical applications and continuously improving my skills by building projects and solving coding problems.
+
+Currently focused on developing scalable web applications using **React.js, Spring Boot, and MySQL**, while strengthening my **DSA and backend development** skills.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧑‍💻 About Me
+
+* 🎓 B.E. Computer Science and Engineering @ **Sri Krishna College of Engineering and Technology**
+* 💻 Interested in **Full-Stack Development & Software Engineering**
+* 🚀 Experienced with **React.js, Spring Boot, Java & MySQL**
+* 🧩 Strong interest in **Data Structures & Algorithms**
+* 🔐 Experience implementing **JWT Authentication & Role-Based Access Control**
+* 💳 Worked on **financial application workflows** during my Infosys internship
+* 🌱 Currently improving my **Java Full Stack Development** skills
+* 🧠 Solving problems on **LeetCode**
+* 📍 Pollachi, Tamil Nadu, India
+
+---
+
+# 🛠️ Tech Stack
+
+### 🚀 Full-Stack Development
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=react,spring,mysql,java,javascript,html,css" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=spring" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 💼 Experience
+
+### 🏢 Infosys — Financial Services Application
+**July 2026 – September 2026**
+
+- Contributed to core financial workflows including **account creation, balance verification, EMI calculation, and payment initiation**.
+- Implemented **JWT-based authentication and role-based access control**.
+- Added account validation mechanisms for secure and accurate financial data handling.
+- Developed balance accuracy and EMI calculation functionality using predefined financial formulas.
+- Supported integration and functional validation across **15+ business validation scenarios**.
+
+---
+
+### 🏢 World Wide Visa — Java Full Stack Development Intern
+**August 2026 – September 2026 | Coimbatore**
+
+- Successfully completed a **one-month internship in Java Full Stack Development**.
+- Gained practical exposure to **Core Java, HTML, CSS, JavaScript, MySQL, JDBC, Spring Boot, and REST APIs**.
+- Worked with full-stack application development concepts and backend technologies.
+- Strengthened practical knowledge of **Java-based web application development and database integration**.
+
+---
+
+### 🏢 S & T Engineers Private Limited
+**May 2025 – June 2025**
+
+- Developed a software solution for managing **electrical product details and inventory**.
+- Implemented product record management and stock availability tracking.
+- Supported day-to-day business operations through a digital management solution.
+
+# 🚀 Featured Projects
+
+## 🚗 Vehicle Service Tracking System
+
+**React.js • Spring Boot • MySQL**
+
+A full-stack vehicle service management platform designed to manage the complete service lifecycle.
+
+### Key Features
+
+* 🚘 Vehicle management
+* 🔧 Service request and tracking
+* 📋 Service history
+* ⚙️ Spare-parts management
+* 🧾 Automated invoice generation
+* 📧 Email invoice delivery using EmailJS
+* 🔐 JWT Authentication
+* 👥 Role-Based Access Control
+
+### 👤 User Roles
+
+`Customer` • `Mechanic` • `Admin`
+
+The automated billing and email workflow reduced manual invoice handling by approximately **30%**.
+
+---
+
+## 🛒 Online Retail Management System
+
+**MongoDB • Express.js • React.js • Node.js**
+
+A complete e-commerce application covering the customer shopping experience and administrative management.
+
+### Key Features
+
+* 🔎 Product search
+* 🗂️ Category-based browsing
+* 🛍️ Shopping cart
+* 📦 Order processing
+* 💳 Checkout & payment
+* 📍 Order tracking
+* 👨‍💼 Admin management
+* 💰 Stripe payment integration
+
+---
+
+# 🧠 Problem Solving
+
+### LeetCode
+
+I actively practice **Data Structures & Algorithms** and database problems on LeetCode.
+
+<p align="center">
+  <a href="https://leetcode.com/u/manikandan-codes/">
+    <img src="https://img.shields.io/badge/LeetCode-Manikandan--Codes-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+### 📊 Current LeetCode Progress
+
+| Language | Problems Solved |
+| :--- | ---: |
+| ☕ Java | **477** |
+| 🗄️ MySQL | **55** |
+| ⚡ C++ | **44** |
+
+**Total:** 576+ problems solved across Java, MySQL and C++.
+
+### 🔥 LeetCode Streak
+
+<p align="center">
+  <a href="https://leetcode.com/u/manikandan-codes/">
+    <img src="https://img.shields.io/badge/🔥%20Current%20Streak-Check%20LeetCode-orange?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+# 🎓 Education
+
+### Sri Krishna College of Engineering and Technology
+
+**B.E. Computer Science and Engineering**
+
+📅 2023 – 2027
+📊 **CGPA: 8.34 / 10**
+
+Relevant Coursework:
+
+`Data Structures & Algorithms` • `OOP` • `DBMS` • `Computer Networks`
+
+---
+
+# 📜 Certifications
+
+* ☁️ **AWS Cloud Practitioner Essentials — AWS**
+* 🧠 **Enhancing Soft Skills and Personality — NPTEL**
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:manit110306@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/manikandan-t-0a01a5291/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/manikandan-codes/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://github.com/manikandan110306">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 What Drives Me
 
-- Java
-- Spring Boot
-- React.js
-- MySQL
-- REST APIs
-- Full Stack Development
+> **"Keep Learning. Keep Building. Keep Improving." 🚀**
 
----
+I'm always open to learning new technologies, collaborating on interesting projects, and building software that solves real-world problems.
 
-## 🚀 Projects
-
-### 🛒 E-Commerce / Full Stack Project
-A full-stack web application built using React.js, Spring Boot and MySQL.
-
-### 📚 Academic Projects
-Working on different projects while improving my programming
-and software development skills.
-
----
-
-## 📊 GitHub Stats
-
-![Manikandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikandan110306&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=manikandan110306&theme=tokyonight)
-
----
-
-## 🌐 Let's Connect
-
-<a href="https://github.com/manikandan110306">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
----
-
-⭐ Thanks for visiting my profile!
-
-### 💻 Keep Learning. Keep Building. Keep Growing. 🚀
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b>
+</p>
