@@ -8,6 +8,12 @@ I'm a **Computer Science and Engineering student** passionate about **Full-Stack
 
 Currently focused on developing scalable web applications using **React.js, Spring Boot, and MySQL**, while strengthening my **DSA and backend development** skills.
 
+<p align="center">
+  <a href="https://portfolio-sage-zeta-bjhde33sso.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-000000?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
