@@ -1,16 +1,26 @@
-# 👋 Hi, I'm Manikandan T
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Manikandan%20T&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-### 💻 Computer Science & Engineering Student | Full-Stack Developer
+<h3 align="center">
+  💻 Computer Science & Engineering Student
+</h3>
 
-> 🚀 Building web applications • 💡 Solving problems • 📚 Learning every day
-
-I'm a **Computer Science and Engineering student** passionate about **Full-Stack Development, Java, and problem solving**. I enjoy turning ideas into practical applications and continuously improving my skills by building projects and solving coding problems.
-
-Currently focused on developing scalable web applications using **React.js, Spring Boot, and MySQL**, while strengthening my **DSA and backend development** skills.
+<p align="center">
+  Java Full-Stack Developer • React.js • Spring Boot • MySQL
+</p>
 
 <p align="center">
   <a href="https://portfolio-sage-zeta-bjhde33sso.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Website-2563EB?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/manikandan-t-0a01a5291/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/manikandan-codes/">
+    <img src="https://img.shields.io/badge/LEETCODE-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
