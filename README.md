@@ -35,13 +35,13 @@ Currently focused on developing scalable web applications using **React.js, Spri
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,javascript,python" />
 </p>
 
 ### ⚙️ Backend & APIs
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
 ### 🗄️ Databases
@@ -60,7 +60,7 @@ Currently focused on developing scalable web applications using **React.js, Spri
 
 # 💼 Experience
 
-### 🏢 Infosys — Financial Services Application
+### 🏢 Infosys Springboard — Full Stack Development Intern
 **July 2026 – September 2026**
 
 - Contributed to core financial workflows including **account creation, balance verification, EMI calculation, and payment initiation**.
@@ -81,14 +81,13 @@ Currently focused on developing scalable web applications using **React.js, Spri
 
 ---
 
-### 🏢 S & T Engineers Private Limited
+### 🏢 S & T Engineers Private Limited — Web Development Intern
 **May 2025 – June 2025**
 
 - Developed a software solution for managing **electrical product details and inventory**.
 - Implemented product record management and stock availability tracking.
 - Supported day-to-day business operations through a digital management solution.
 
-# 🚀 Featured Projects
 
 ## 🚗 Vehicle Service Tracking System
 
@@ -177,14 +176,22 @@ I actively practice **Data Structures & Algorithms** and database problems on Le
 
 Relevant Coursework:
 
-`Data Structures & Algorithms` • `OOP` • `DBMS` • `Computer Networks`
+`Data Structures & Algorithms` • `OOP` • `DBMS`
 
 ---
 
-# 📜 Certifications
+# 📜 Certifications & Learning
 
-* ☁️ **AWS Cloud Practitioner Essentials — AWS**
-* 🧠 **Enhancing Soft Skills and Personality — NPTEL**
+- ☕ **Programming Using Java** — Infosys
+- ☁️ **AWS Cloud Practitioner Essentials** — AWS
+- 🌐 **CCNA: Enterprise Networking, Security and Automation** — Cisco
+- 🐍 **Python Essentials 1** — Cisco
+- 🐍 **Python Essentials 2** — Cisco
+- 📊 **Microsoft Power BI Data Analyst Associate** — NASSCOM
+- 🤖 **AI Foundation** — Infosys
+- 🤖 **AI Primer** — Infosys
+- 🧠 **Machine Learning Implementation** — Infosys
+- 🗄️ **DBMS Course** — IAMNEO
 
 ---
 
